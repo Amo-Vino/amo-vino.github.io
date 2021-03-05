@@ -366,7 +366,9 @@ ul.nav > li.active > a{
     height: 670px;
     position: relative;
     z-index: 1;
+
 }
+
 .hero_section .hero_content {
     color: #fff;
 }
@@ -451,10 +453,10 @@ ul.nav > li.active > a{
     width: 100%;
 }
 .about_content{
-    padding-top: 95px;
+    padding-top: 0px;
 }
 .edu_wrap{
-    margin-top: 50px;
+    margin-top: 0px;
 }
 .about_content h2,
 .edu_wrap h2{
@@ -684,7 +686,7 @@ ul.nav > li.active > a{
     margin: 15px 0 10px;
 }
 .testimonial_item p{
-    color: #ddd;
+    color: #fff;
 }
 
 .testimonial_items .owl-dots{
@@ -901,3 +903,11 @@ ul.nav > li.active > a{
     50% { opacity:0; }
     100% { opacity:1; }
 }
+
+
+/*.hero_section{
+    background: rgba(39,62,84,0.82);
+    overflow: hidden;
+    height: 100%;
+    z-index: 2;
+}*/
