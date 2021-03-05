@@ -90,7 +90,7 @@
     Typed js Active
 =========================================================================*/
     $(".typed").typed({
-        strings: ["Wine Lover.", "Wine Enthusiast.", "Amo Vino."],
+        strings: ["A Wine Lover.", "A Wine Enthusiast.", "Amo Vino."],
         loop: true,
         typeSpeed: 150
     });
